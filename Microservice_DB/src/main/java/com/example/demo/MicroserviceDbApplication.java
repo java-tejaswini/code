@@ -14,6 +14,9 @@ public class MicroserviceDbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroserviceDbApplication.class, args);
+		
+		
+		System.out.println();
 	}
 
 }
